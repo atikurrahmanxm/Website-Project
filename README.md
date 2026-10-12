@@ -51,8 +51,8 @@ No build tools or server setup required! This is a 100% static project.
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/ngo-charity-website.git
-cd ngo-charity-website
+git clone https://github.com/atikurrahmanxm/Website-Project.git
+cd Website-Project
 ```
 
 ### 2. Run locally
@@ -70,9 +70,9 @@ Then visit `http://localhost:8000` in your browser.
 
 1. Push this project to your GitHub repository.
 2. In your GitHub repository, go to **Settings** > **Pages**.
-3. Under **Build and deployment** > **Branch**, select `main` (or `master`) and folder `/ (root)`.
+3. Under **Build and deployment** > **Branch**, select `main` and folder `/ (root)`.
 4. Click **Save**. Within 1–2 minutes, your live demo will be published at:
-   `https://<your-username>.github.io/<repo-name>/`
+   [https://atikurrahmanxm.github.io/Website-Project/](https://atikurrahmanxm.github.io/Website-Project/)
 
 ---
 
